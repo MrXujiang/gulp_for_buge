@@ -1,0 +1,4 @@
+/node_modules/*
+*.dll
+*.zip
+.DS_Store*

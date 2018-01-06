@@ -1,0 +1,14 @@
+body{
+	background: #fff;
+	height:100vh;
+	width: 200vw;
+	margin: 0;
+	padding: 0;
+}
+h1{
+	font-size: 12pt;
+	color: #ccc;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+

@@ -1,0 +1,20 @@
+body:hover {
+  background: #ccc;
+}
+a {
+  color: #06c;
+}
+a:hover {
+  color: red;
+}
+h1 {
+  color: red;
+}
+h2 {
+  color: red;
+}
+h1:hover {
+  color: blue;
+  font-size: 28px;
+  transition: font-size 1s;
+}
